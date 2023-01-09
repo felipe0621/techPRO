@@ -415,7 +415,7 @@ img {
 .footer p {
     margin-top: 13rem;
 }
-@media (min-width: 768px) {
+@media (min-width: 420px) {
     .footer p {
         margin-top: 0;
         margin-bottom: 0;
