@@ -410,5 +410,8 @@ img {
     font-size: 2rem;
     text-transform: uppercase;
     padding: 2rem 0;
-    font-family: var(--fuenteSecundaria);
+    font-family: var(--fuenteSecundaria);    
+}
+.footer p {
+    margin-top: 13rem;
 }
